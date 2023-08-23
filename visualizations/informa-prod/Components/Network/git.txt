@@ -1,0 +1,4 @@
+git checkout prod
+git pull origin development
+git checkout development
+git reset 9ef9173 OR git checkout 0d1d7fc32
